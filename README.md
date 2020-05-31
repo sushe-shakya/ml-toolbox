@@ -25,8 +25,7 @@
 | Tool                                   | Description                                                                                                                                     |
 |:---------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
 | https://github.com/shenweichen/DeepCTR | Easy-to-use,Modular and Extendible package of deep-learning based CTR models.                                                                   |
-| https://github.com/aksnzhy/xlearn      | xLearn is a high performance, easy-to-use, and scalable machine learning package that contains linear model (LR), factorization machines (FM),  |
-|                                        | and field-aware factorization machines (FFM), all of which can be used to solve large-scale machine learning problems                           |
+| https://github.com/aksnzhy/xlearn      | xLearn is a high performance, easy-to-use, and scalable machine learning package that contains linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM), all of which can be used to solve large-scale machine learning problems                           |
 </details>
 
 

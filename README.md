@@ -197,8 +197,7 @@
 | https://github.com/OpenMined/PySyft          | PySyft is a Python library for secure and private Deep Learning.                                                                                                                  |
 | https://github.com/SubstraFoundation/substra | Substra is a framework for traceable ML orchestration on decentralized sensitive data.                                                                                            |
 | https://github.com/tensorflow/privacy        | It is a Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.                                     |
-| https://github.com/tf-encrypted/tf-encrypted | TF Encrypted is a framework for encrypted machine learning in TensorFlow that aims to make privacy-preserving machine learning readily available, without requiring expertise in  |
-|                                              | cryptography, distributed systems, or high performance computing.                                                                                                                 |
+| https://github.com/tf-encrypted/tf-encrypted | TF Encrypted is a framework for encrypted machine learning in TensorFlow that aims to make privacy-preserving machine learning readily available, without requiring expertise in cryptography, distributed systems, or high performance computing.                                                                                                                 |
 </details>
 
 
